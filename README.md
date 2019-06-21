@@ -7,3 +7,4 @@ I'll try to add for every exercise an executable JAR file that you can find in t
 ## Exercises
 
 * notice-board: A simple app that copies what you write from the top panel to the bottom one (Executable JAR file annexed)
+* axe-click: An app where you can increment the value of the counter by clicking the "Click" button
